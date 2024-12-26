@@ -1,5 +1,20 @@
 {
   "Users": [
-    
+    {
+      "username": "Areeba",
+      "email": "areebamajid04@gmail.com",
+      "password": "guyg",
+      "gender": "",
+      "mobile": "07310733456",
+      "id": 1
+    },
+    {
+      "username": "Aleeza",
+      "email": "alezamajid04@gmail.com",
+      "password": "1234",
+      "gender": "",
+      "mobile": "07310733456",
+      "id": 2
+    }
   ]
 }
