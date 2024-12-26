@@ -31,6 +31,22 @@
       "gender": "",
       "mobile": "",
       "id": 4
+    },
+    {
+      "username": "zuha",
+      "email": "zuhaaa@ejknnd",
+      "password": "78989",
+      "gender": "",
+      "mobile": "07310733456",
+      "id": 5
+    },
+    {
+      "username": "zuhanabi",
+      "email": "zuha9904@gmail.com",
+      "password": "68789",
+      "gender": "",
+      "mobile": "07310733456",
+      "id": 6
     }
   ]
 }
