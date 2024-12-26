@@ -1,51 +1,5 @@
 {
-  "posts": [
-    {
-      "id": "1",
-      "title": "First Post",
-      "views": 150
-    },
-    {
-      "id": "2",
-      "title": "Second Post",
-      "views": 250
-    },
-    {
-      "id": "3",
-      "title": "Third Post",
-      "views": 350
-    },
-    {
-      "id": "4",
-      "title": "Fourth Post",
-      "views": 450
-    }
-  ],
-  "comments": [
-    {
-      "id": "1",
-      "text": "Great post!",
-      "postId": "1"
-    },
-    {
-      "id": "2",
-      "text": "Very informative.",
-      "postId": "2"
-    },
-    {
-      "id": "3",
-      "text": "I enjoyed reading this.",
-      "postId": "3"
-    },
-    {
-      "id": "4",
-      "text": "Thanks for sharing!",
-      "postId": "4"
-    },
-    {
-      "id": "5",
-      "text": "Awesome post!",
-      "postId": "5"
-    }
+  "Users": [
+    
   ]
 }
